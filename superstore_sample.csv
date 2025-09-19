@@ -1,0 +1,101 @@
+Order ID,Order Date,Ship Date,Customer Name,Segment,Category,Sub-Category,Sales,Quantity,Discount,Profit,Region
+ORD-1001,2023-08-20,2023-08-24,Aarav Sharma,Home Office,Furniture,Bookcases,282.95,7,0.12,21.91,South
+ORD-1002,2022-10-16,2022-10-20,Ananya Singh,Corporate,Office Supplies,Storage,146.74,3,0.15,31.62,South
+ORD-1003,2022-01-06,2022-01-10,Meera Nair,Home Office,Technology,Computers,743.28,9,0.0,125.22,Central
+ORD-1004,2023-08-13,2023-08-19,Priya Das,Home Office,Office Supplies,Paper,676.64,1,0.19,110.81,East
+ORD-1005,2023-03-15,2023-03-22,Rohan Gupta,Home Office,Technology,Accessories,590.28,2,0.07,76.76,South
+ORD-1006,2022-06-14,2022-06-20,Aditya Verma,Home Office,Furniture,Bookcases,558.6,8,0.0,30.61,East
+ORD-1007,2022-04-28,2022-05-05,Aditya Verma,Consumer,Furniture,Bookcases,241.53,3,0.19,12.99,West
+ORD-1008,2022-01-28,2022-02-04,Aditya Verma,Home Office,Office Supplies,Binders,613.31,9,0.28,44.13,West
+ORD-1009,2022-03-29,2022-04-04,Vikram Reddy,Home Office,Furniture,Tables,877.47,6,0.04,131.66,South
+ORD-1010,2022-10-25,2022-10-31,Vikram Reddy,Consumer,Technology,Phones,628.34,7,0.15,32.39,West
+ORD-1011,2022-06-09,2022-06-11,Kabir Khan,Consumer,Furniture,Bookcases,474.32,5,0.04,52.95,West
+ORD-1012,2023-05-20,2023-05-25,Sanya Mehta,Consumer,Technology,Accessories,115.65,6,0.19,15.41,West
+ORD-1013,2022-08-14,2022-08-16,Meera Nair,Corporate,Furniture,Bookcases,548.94,1,0.22,69.11,West
+ORD-1014,2023-03-15,2023-03-21,Kabir Khan,Home Office,Technology,Computers,324.02,3,0.12,49.97,South
+ORD-1015,2023-06-03,2023-06-08,Kabir Khan,Home Office,Furniture,Chairs,458.79,3,0.28,72.49,South
+ORD-1016,2022-06-14,2022-06-16,Meera Nair,Corporate,Furniture,Chairs,428.23,6,0.01,101.04,South
+ORD-1017,2023-05-20,2023-05-25,Ananya Singh,Home Office,Technology,Computers,164.44,4,0.13,33.88,Central
+ORD-1018,2022-10-03,2022-10-10,Aarav Sharma,Corporate,Office Supplies,Binders,646.39,6,0.08,76.64,South
+ORD-1019,2022-09-19,2022-09-25,Aarav Sharma,Corporate,Office Supplies,Storage,237.85,4,0.1,25.97,West
+ORD-1020,2022-04-12,2022-04-18,Sanya Mehta,Home Office,Technology,Accessories,494.46,8,0.14,75.48,Central
+ORD-1021,2022-08-28,2022-09-04,Sanya Mehta,Corporate,Technology,Phones,315.9,1,0.05,25.04,East
+ORD-1022,2022-06-11,2022-06-14,Aarav Sharma,Consumer,Office Supplies,Binders,693.24,5,0.11,121.99,East
+ORD-1023,2023-01-09,2023-01-13,Priya Das,Corporate,Office Supplies,Storage,181.16,9,0.07,35.99,East
+ORD-1024,2022-11-03,2022-11-10,Kabir Khan,Consumer,Furniture,Chairs,360.07,9,0.03,51.38,Central
+ORD-1025,2022-11-15,2022-11-18,Sanya Mehta,Home Office,Technology,Phones,965.89,10,0.28,222.26,Central
+ORD-1026,2022-08-29,2022-09-05,Meera Nair,Home Office,Technology,Phones,862.03,5,0.14,86.46,East
+ORD-1027,2022-09-27,2022-09-30,Kabir Khan,Corporate,Office Supplies,Binders,782.7,8,0.0,181.63,West
+ORD-1028,2023-08-13,2023-08-18,Ananya Singh,Corporate,Technology,Computers,57.33,9,0.18,7.18,West
+ORD-1029,2022-07-22,2022-07-27,Meera Nair,Consumer,Technology,Computers,210.22,10,0.06,35.28,Central
+ORD-1030,2022-02-14,2022-02-17,Ananya Singh,Corporate,Technology,Computers,590.48,3,0.05,145.3,West
+ORD-1031,2023-03-14,2023-03-17,Kabir Khan,Home Office,Office Supplies,Paper,86.53,6,0.17,8.97,West
+ORD-1032,2022-07-31,2022-08-06,Priya Das,Consumer,Office Supplies,Binders,954.43,4,0.11,55.8,East
+ORD-1033,2022-11-27,2022-12-01,Rohan Gupta,Corporate,Furniture,Tables,655.55,3,0.17,33.02,South
+ORD-1034,2023-06-21,2023-06-25,Kabir Khan,Corporate,Technology,Phones,710.29,8,0.22,112.21,Central
+ORD-1035,2023-03-28,2023-03-30,Aditya Verma,Consumer,Furniture,Bookcases,274.33,10,0.16,39.22,West
+ORD-1036,2022-11-28,2022-12-04,Aarav Sharma,Consumer,Office Supplies,Paper,190.76,8,0.04,22.18,West
+ORD-1037,2023-02-07,2023-02-13,Rohan Gupta,Corporate,Furniture,Tables,542.26,7,0.18,87.23,South
+ORD-1038,2023-04-30,2023-05-04,Rohan Gupta,Consumer,Office Supplies,Paper,195.85,7,0.2,23.78,East
+ORD-1039,2022-10-14,2022-10-19,Ananya Singh,Home Office,Office Supplies,Storage,915.94,4,0.25,120.23,West
+ORD-1040,2022-09-11,2022-09-15,Ananya Singh,Home Office,Office Supplies,Storage,298.16,6,0.14,57.15,West
+ORD-1041,2022-07-12,2022-07-19,Priya Das,Consumer,Office Supplies,Paper,227.35,6,0.03,15.86,Central
+ORD-1042,2023-05-24,2023-05-30,Kabir Khan,Corporate,Technology,Computers,537.18,6,0.02,90.64,East
+ORD-1043,2023-03-25,2023-03-27,Aarav Sharma,Corporate,Furniture,Bookcases,850.79,3,0.28,151.52,South
+ORD-1044,2022-03-27,2022-04-02,Kabir Khan,Corporate,Furniture,Tables,886.62,6,0.24,57.58,Central
+ORD-1045,2023-08-19,2023-08-23,Kabir Khan,Corporate,Furniture,Chairs,514.98,5,0.09,101.06,East
+ORD-1046,2023-04-02,2023-04-09,Ishita Patel,Corporate,Furniture,Chairs,593.5,3,0.12,120.83,South
+ORD-1047,2022-09-23,2022-09-26,Vikram Reddy,Corporate,Technology,Computers,419.79,7,0.04,103.83,East
+ORD-1048,2023-02-28,2023-03-02,Meera Nair,Home Office,Furniture,Tables,828.03,10,0.2,77.39,South
+ORD-1049,2022-05-29,2022-06-01,Aarav Sharma,Corporate,Office Supplies,Binders,473.25,7,0.18,99.61,Central
+ORD-1050,2023-07-19,2023-07-26,Vikram Reddy,Consumer,Furniture,Chairs,599.29,5,0.12,99.65,South
+ORD-1051,2022-10-11,2022-10-15,Ananya Singh,Home Office,Furniture,Tables,849.83,9,0.01,73.87,Central
+ORD-1052,2023-07-15,2023-07-20,Vikram Reddy,Corporate,Furniture,Chairs,896.4,10,0.17,211.94,Central
+ORD-1053,2022-08-22,2022-08-26,Aarav Sharma,Home Office,Office Supplies,Binders,860.88,7,0.11,171.57,South
+ORD-1054,2023-07-29,2023-08-04,Meera Nair,Consumer,Furniture,Chairs,532.87,10,0.24,126.39,Central
+ORD-1055,2022-09-14,2022-09-21,Meera Nair,Corporate,Office Supplies,Storage,602.35,6,0.22,88.34,South
+ORD-1056,2023-05-19,2023-05-21,Ananya Singh,Consumer,Office Supplies,Storage,637.47,1,0.1,90.94,West
+ORD-1057,2022-05-25,2022-06-01,Rohan Gupta,Home Office,Technology,Phones,375.78,7,0.04,86.87,Central
+ORD-1058,2023-08-18,2023-08-22,Kabir Khan,Consumer,Furniture,Tables,862.63,1,0.19,89.52,East
+ORD-1059,2022-03-29,2022-04-04,Ananya Singh,Consumer,Furniture,Tables,290.26,8,0.19,27.15,East
+ORD-1060,2023-07-07,2023-07-14,Aarav Sharma,Corporate,Furniture,Bookcases,908.71,2,0.2,91.79,East
+ORD-1061,2022-07-14,2022-07-20,Rohan Gupta,Consumer,Office Supplies,Paper,622.8,4,0.04,89.13,East
+ORD-1062,2022-09-21,2022-09-25,Aditya Verma,Consumer,Furniture,Chairs,491.14,1,0.06,102.5,South
+ORD-1063,2023-06-25,2023-06-30,Priya Das,Home Office,Office Supplies,Binders,672.14,8,0.16,122.35,Central
+ORD-1064,2023-02-23,2023-02-26,Ishita Patel,Corporate,Furniture,Bookcases,257.76,7,0.27,54.14,South
+ORD-1065,2022-10-09,2022-10-16,Sanya Mehta,Home Office,Technology,Phones,889.34,7,0.18,159.33,West
+ORD-1066,2023-07-02,2023-07-05,Sanya Mehta,Home Office,Office Supplies,Storage,332.34,8,0.25,29.71,East
+ORD-1067,2023-02-06,2023-02-10,Priya Das,Home Office,Technology,Accessories,766.26,8,0.07,98.68,East
+ORD-1068,2022-07-24,2022-07-30,Ishita Patel,Corporate,Furniture,Chairs,179.54,7,0.24,9.8,Central
+ORD-1069,2022-10-19,2022-10-23,Vikram Reddy,Consumer,Technology,Phones,883.5,3,0.2,112.74,East
+ORD-1070,2023-04-13,2023-04-15,Kabir Khan,Consumer,Furniture,Chairs,203.71,7,0.19,30.94,East
+ORD-1071,2022-10-12,2022-10-18,Rohan Gupta,Home Office,Furniture,Bookcases,924.54,9,0.12,177.13,West
+ORD-1072,2023-08-05,2023-08-08,Aditya Verma,Home Office,Technology,Computers,851.24,7,0.09,85.44,East
+ORD-1073,2023-07-28,2023-08-02,Ishita Patel,Home Office,Office Supplies,Binders,178.19,7,0.17,36.78,Central
+ORD-1074,2022-07-23,2022-07-25,Vikram Reddy,Consumer,Technology,Accessories,479.99,7,0.22,70.62,West
+ORD-1075,2022-06-12,2022-06-15,Aditya Verma,Home Office,Office Supplies,Paper,109.0,10,0.15,22.39,West
+ORD-1076,2022-07-27,2022-08-01,Ishita Patel,Corporate,Furniture,Bookcases,381.37,4,0.05,30.89,West
+ORD-1077,2023-07-31,2023-08-07,Sanya Mehta,Consumer,Office Supplies,Binders,529.34,4,0.28,57.29,Central
+ORD-1078,2022-01-29,2022-01-31,Ananya Singh,Home Office,Office Supplies,Paper,588.69,4,0.08,56.91,West
+ORD-1079,2023-08-10,2023-08-15,Aarav Sharma,Consumer,Furniture,Tables,295.34,6,0.0,36.9,South
+ORD-1080,2023-04-20,2023-04-25,Rohan Gupta,Consumer,Furniture,Tables,304.36,8,0.29,48.3,West
+ORD-1081,2022-04-10,2022-04-15,Rohan Gupta,Consumer,Office Supplies,Paper,669.0,8,0.29,84.63,Central
+ORD-1082,2022-06-20,2022-06-27,Priya Das,Home Office,Technology,Computers,264.88,4,0.07,22.23,East
+ORD-1083,2022-09-18,2022-09-25,Aditya Verma,Corporate,Office Supplies,Storage,775.5,1,0.11,151.26,East
+ORD-1084,2023-05-01,2023-05-07,Priya Das,Corporate,Furniture,Chairs,146.12,4,0.29,14.78,West
+ORD-1085,2023-02-18,2023-02-21,Vikram Reddy,Home Office,Furniture,Bookcases,259.74,9,0.23,62.63,East
+ORD-1086,2023-01-06,2023-01-12,Sanya Mehta,Consumer,Office Supplies,Binders,670.75,4,0.23,66.19,East
+ORD-1087,2023-08-20,2023-08-27,Ishita Patel,Corporate,Office Supplies,Paper,960.75,9,0.13,86.16,Central
+ORD-1088,2022-05-23,2022-05-29,Ananya Singh,Home Office,Office Supplies,Storage,974.21,4,0.29,156.97,South
+ORD-1089,2022-03-18,2022-03-25,Vikram Reddy,Consumer,Technology,Computers,108.02,8,0.29,14.51,Central
+ORD-1090,2022-06-01,2022-06-08,Meera Nair,Home Office,Office Supplies,Binders,137.35,8,0.11,10.38,Central
+ORD-1091,2022-10-22,2022-10-27,Ishita Patel,Consumer,Technology,Accessories,883.2,9,0.3,61.68,East
+ORD-1092,2022-04-16,2022-04-19,Vikram Reddy,Corporate,Technology,Accessories,564.45,6,0.24,34.13,East
+ORD-1093,2022-08-07,2022-08-14,Ishita Patel,Corporate,Office Supplies,Binders,682.61,8,0.19,136.17,South
+ORD-1094,2022-10-24,2022-10-29,Ishita Patel,Corporate,Technology,Accessories,551.89,4,0.19,101.58,South
+ORD-1095,2022-02-18,2022-02-24,Priya Das,Corporate,Technology,Phones,363.24,7,0.09,34.47,West
+ORD-1096,2022-12-18,2022-12-21,Rohan Gupta,Consumer,Office Supplies,Binders,236.33,4,0.08,24.84,West
+ORD-1097,2022-02-25,2022-03-01,Ishita Patel,Consumer,Technology,Phones,504.1,2,0.23,91.05,South
+ORD-1098,2022-05-13,2022-05-18,Aditya Verma,Home Office,Furniture,Tables,51.25,4,0.06,9.75,East
+ORD-1099,2023-02-11,2023-02-13,Rohan Gupta,Consumer,Furniture,Bookcases,115.31,10,0.18,10.88,West
+ORD-1100,2022-09-10,2022-09-17,Rohan Gupta,Home Office,Office Supplies,Storage,150.97,8,0.0,22.5,East
